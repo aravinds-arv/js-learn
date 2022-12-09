@@ -1,4 +1,4 @@
-// this is my first JavaScript Code!
+// this is my last JavaScript Code!
 console.log("hello world!!");
 
 // variables
